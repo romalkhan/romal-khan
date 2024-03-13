@@ -1,4 +1,4 @@
-![logo](https://w0.peakpx.com/wallpaper/363/853/HD-wallpaper-minimalism-code-geek-happy-new-year-happy-new-yaer-programming-programing-codding-github-for-section-%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC-minimalist-programmer.jpg)
+![logo](https://github.com/romalkhan/romal-khan/blob/main/peakpx.jpg)
 <h1 align="center">Hi 👋, I'm Romal Khan</h1>
 <h3 align="center">A passionate Web Developer From Afghanistan</h3>
 
