@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Romal Khan</h1>
 <h3 align="center">A passionate Web Developer From Afghanistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romalkhan&label=Profile%20views&color=0e75b6&style=flat" alt="romalkhan" /> </p>
